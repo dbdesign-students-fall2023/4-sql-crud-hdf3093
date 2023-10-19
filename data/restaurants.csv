@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhood,opening_hours,avg_rating,good_for_kids
+1,Mama Mia Pizzeria,Korean,Expensive,Queens,5:06,3.9,true
+2,Cafe Delight,Italian,Cheap,Bronx,13:49,4.25,false
+3,The Spice Route,Greek,Cheap,Brooklyn,14:04,3.94,false
+4,The Rustic Tavern,Korean,Medium,Brooklyn,13:28,2.72,true
+5,The Hungry Spoon,Indian,Medium,Bronx,22:00,1.28,true
+6,The Cozy Corner,Spanish,Cheap,Bronx,15:40,4.43,false
+7,Bella Italia,French,Expensive,Staten Island,7:40,3.63,false
+8,La Petite Boulangerie,Mexican,Cheap,Manhattan,11:24,1.24,true
+9,Cafe Delight,Italian,Cheap,Bronx,3:44,3.09,false
+10,Bella Italia,French,Medium,Brooklyn,17:39,1.23,false
+11,La Petite Boulangerie,Mexican,Cheap,Queens,14:01,2.6,false
+12,The Spice Route,Korean,Expensive,Bronx,12:09,1.1,false
+13,The Hungry Spoon,Chinese,Cheap,Staten Island,21:55,2.63,true
+14,The Rustic Tavern,Korean,Cheap,Brooklyn,20:27,1.27,true
+15,The Spice Route,Italian,Expensive,Bronx,9:19,4.8,false
+16,Sushi Paradise,Indian,Cheap,Bronx,0:12,3.38,true
+17,The Golden Rooster,Greek,Cheap,Queens,12:32,3.36,false
+18,Cafe Delight,Chinese,Expensive,Queens,19:15,2.01,true
+19,The Cozy Corner,Korean,Expensive,Bronx,8:58,2.17,true
+20,Sushi Paradise,Thai,Cheap,Bronx,5:44,4.66,false
+21,La Petite Boulangerie,Korean,Cheap,Bronx,11:08,4.07,true
+22,Mama Mia Pizzeria,Japanese,Medium,Manhattan,17:42,1.29,false
+23,Mama Mia Pizzeria,Chinese,Medium,Manhattan,20:16,3.8,true
+24,La Petite Boulangerie,Chinese,Medium,Staten Island,2:28,3.34,false
+25,The Golden Rooster,Italian,Cheap,Brooklyn,3:36,4.36,true
+26,The Cozy Corner,Mexican,Cheap,Brooklyn,15:47,2.6,false
+27,The Spice Route,Thai,Expensive,Brooklyn,13:01,2.26,false
+28,The Spice Route,Korean,Cheap,Bronx,5:38,2.3,true
+29,The Golden Rooster,Thai,Cheap,Manhattan,10:41,3.95,false
+30,The Golden Rooster,Indian,Cheap,Manhattan,19:12,4.94,true
+31,The Golden Rooster,Indian,Medium,Queens,21:08,4.25,true
+32,Mama Mia Pizzeria,Thai,Expensive,Staten Island,17:15,3.84,true
+33,The Spice Route,Japanese,Expensive,Staten Island,6:03,4.83,false
+34,Mama Mia Pizzeria,Spanish,Expensive,Staten Island,1:20,3.35,false
+35,Sushi Paradise,Spanish,Medium,Manhattan,22:46,2.26,true
+36,The Hungry Spoon,Greek,Expensive,Brooklyn,15:55,4.36,false
+37,Sushi Paradise,Greek,Cheap,Queens,12:48,1.55,true
+38,Bella Italia,Mexican,Medium,Bronx,16:50,2.94,true
+39,The Cozy Corner,Italian,Cheap,Bronx,2:46,3.99,true
+40,The Hungry Spoon,Indian,Cheap,Bronx,3:59,3.88,true
+41,Mama Mia Pizzeria,Japanese,Expensive,Staten Island,5:28,3.48,true
+42,The Rustic Tavern,French,Medium,Bronx,12:52,4.64,false
+43,The Spice Route,Indian,Cheap,Bronx,10:20,4.43,true
+44,Sushi Paradise,Japanese,Medium,Bronx,17:02,3.74,false
+45,Mama Mia Pizzeria,French,Medium,Manhattan,4:30,3.46,false
+46,La Petite Boulangerie,Japanese,Expensive,Queens,22:43,2.87,false
+47,Sushi Paradise,French,Expensive,Brooklyn,9:55,1.59,true
+48,Cafe Delight,Mexican,Cheap,Manhattan,3:06,1.4,true
+49,The Hungry Spoon,Thai,Cheap,Bronx,3:05,3.0,false
+50,The Cozy Corner,Japanese,Expensive,Manhattan,23:18,4.8,false
+51,The Golden Rooster,Japanese,Medium,Manhattan,8:39,2.74,true
+52,The Hungry Spoon,Thai,Cheap,Bronx,21:19,3.84,true
+53,Sushi Paradise,Chinese,Cheap,Manhattan,1:15,1.3,true
+54,The Hungry Spoon,Spanish,Cheap,Queens,18:02,3.5,true
+55,The Golden Rooster,Italian,Medium,Brooklyn,1:30,3.25,false
+56,The Spice Route,Thai,Expensive,Brooklyn,6:50,3.36,false
+57,The Rustic Tavern,Chinese,Cheap,Queens,14:17,4.98,true
+58,Mama Mia Pizzeria,Korean,Expensive,Manhattan,18:27,2.4,false
+59,La Petite Boulangerie,Korean,Cheap,Manhattan,9:39,4.19,true
+60,The Golden Rooster,Korean,Expensive,Bronx,3:47,3.0,false
+61,The Rustic Tavern,Spanish,Cheap,Bronx,23:25,2.87,false
+62,The Spice Route,Chinese,Medium,Manhattan,17:50,1.79,true
+63,The Rustic Tavern,Indian,Cheap,Staten Island,12:36,3.9,false
+64,The Rustic Tavern,Chinese,Expensive,Queens,3:00,1.77,true
+65,Mama Mia Pizzeria,Spanish,Medium,Queens,0:37,3.2,true
+66,The Hungry Spoon,Mexican,Expensive,Queens,22:19,1.1,false
+67,The Cozy Corner,French,Expensive,Brooklyn,13:58,2.34,true
+68,The Cozy Corner,Korean,Cheap,Manhattan,3:26,3.71,false
+69,The Spice Route,Thai,Cheap,Manhattan,14:35,2.02,false
+70,La Petite Boulangerie,Spanish,Cheap,Staten Island,3:41,1.97,true
+71,The Spice Route,Japanese,Cheap,Bronx,23:42,2.31,false
+72,The Golden Rooster,Japanese,Expensive,Staten Island,2:01,2.16,true
+73,The Golden Rooster,Indian,Medium,Queens,11:09,2.5,false
+74,The Rustic Tavern,Spanish,Medium,Manhattan,7:52,1.21,true
+75,The Hungry Spoon,Spanish,Cheap,Queens,19:52,2.37,true
+76,Bella Italia,Korean,Expensive,Staten Island,3:25,1.27,true
+77,Cafe Delight,Indian,Medium,Manhattan,14:47,1.96,true
+78,Mama Mia Pizzeria,Thai,Cheap,Manhattan,4:21,3.75,false
+79,The Rustic Tavern,Chinese,Cheap,Queens,1:41,2.71,false
+80,The Golden Rooster,Thai,Cheap,Queens,11:40,4.97,false
+81,Sushi Paradise,Greek,Cheap,Queens,7:36,1.71,false
+82,Sushi Paradise,Mexican,Expensive,Manhattan,8:08,4.21,true
+83,Cafe Delight,Korean,Cheap,Brooklyn,5:01,4.1,false
+84,Cafe Delight,Chinese,Cheap,Bronx,16:43,3.14,false
+85,Cafe Delight,Indian,Medium,Staten Island,12:42,3.8,true
+86,La Petite Boulangerie,French,Cheap,Bronx,21:00,3.08,true
+87,The Spice Route,Italian,Expensive,Bronx,4:35,2.64,true
+88,The Golden Rooster,Japanese,Medium,Manhattan,18:39,3.99,true
+89,Mama Mia Pizzeria,Spanish,Expensive,Bronx,22:31,4.88,false
+90,Sushi Paradise,Chinese,Expensive,Manhattan,0:41,2.09,true
+91,Sushi Paradise,Indian,Cheap,Manhattan,15:59,3.27,true
+92,Mama Mia Pizzeria,Thai,Cheap,Queens,18:33,4.07,true
+93,Bella Italia,Thai,Cheap,Queens,8:43,1.95,false
+94,La Petite Boulangerie,Chinese,Cheap,Bronx,16:42,4.59,false
+95,La Petite Boulangerie,Mexican,Medium,Brooklyn,15:54,3.32,false
+96,La Petite Boulangerie,Italian,Cheap,Bronx,19:23,2.26,true
+97,La Petite Boulangerie,Japanese,Cheap,Queens,10:36,4.75,false
+98,Sushi Paradise,Greek,Expensive,Brooklyn,20:24,3.44,true
+99,The Rustic Tavern,Thai,Cheap,Brooklyn,14:28,1.59,false
+100,The Golden Rooster,Italian,Cheap,Bronx,22:28,3.25,false
+101,The Golden Rooster,Spanish,Medium,Brooklyn,6:42,4.67,false
+102,The Rustic Tavern,Indian,Cheap,Brooklyn,12:51,2.79,true
+103,Cafe Delight,Japanese,Medium,Staten Island,3:46,4.1,false
+104,Mama Mia Pizzeria,Mexican,Medium,Brooklyn,21:47,3.11,false
+105,The Hungry Spoon,Greek,Expensive,Manhattan,8:14,3.31,true
+106,The Golden Rooster,Thai,Expensive,Queens,19:00,1.83,true
+107,The Cozy Corner,Greek,Expensive,Brooklyn,13:31,4.76,true
+108,Cafe Delight,Indian,Expensive,Staten Island,19:59,4.06,false
+109,Sushi Paradise,Mexican,Medium,Bronx,19:46,3.35,true
+110,Sushi Paradise,Mexican,Expensive,Staten Island,8:59,3.84,true
+111,The Spice Route,Thai,Expensive,Staten Island,0:41,4.32,true
+112,La Petite Boulangerie,Indian,Expensive,Staten Island,17:55,2.76,true
+113,The Spice Route,Korean,Medium,Staten Island,7:18,2.71,false
+114,Sushi Paradise,Spanish,Medium,Bronx,2:49,1.34,true
+115,The Rustic Tavern,Chinese,Medium,Manhattan,4:23,2.29,true
+116,Mama Mia Pizzeria,Greek,Expensive,Bronx,17:16,2.8,false
+117,The Rustic Tavern,Indian,Cheap,Manhattan,18:02,1.69,false
+118,The Hungry Spoon,Spanish,Medium,Bronx,18:51,1.51,true
+119,La Petite Boulangerie,Greek,Expensive,Brooklyn,10:08,4.23,false
+120,Bella Italia,Greek,Medium,Manhattan,13:27,1.61,false
+121,Sushi Paradise,Chinese,Expensive,Bronx,9:14,3.39,true
+122,Sushi Paradise,Greek,Cheap,Brooklyn,8:32,4.3,true
+123,The Rustic Tavern,Indian,Cheap,Queens,7:17,4.22,true
+124,The Rustic Tavern,Spanish,Expensive,Bronx,9:22,2.12,false
+125,La Petite Boulangerie,French,Expensive,Staten Island,9:14,1.64,true
+126,Cafe Delight,Thai,Cheap,Bronx,14:46,4.19,false
+127,Bella Italia,Italian,Cheap,Queens,14:51,4.34,false
+128,Cafe Delight,Chinese,Cheap,Brooklyn,16:37,3.05,false
+129,The Golden Rooster,Korean,Medium,Brooklyn,23:06,4.64,true
+130,The Cozy Corner,Thai,Cheap,Manhattan,23:57,4.17,true
+131,Sushi Paradise,Thai,Medium,Manhattan,1:17,4.77,false
+132,The Cozy Corner,Japanese,Expensive,Queens,7:24,4.41,false
+133,The Hungry Spoon,French,Cheap,Staten Island,10:01,4.34,false
+134,The Golden Rooster,Italian,Cheap,Queens,21:46,3.28,true
+135,Cafe Delight,French,Cheap,Brooklyn,5:30,2.33,true
+136,The Golden Rooster,Korean,Expensive,Manhattan,14:34,1.2,true
+137,The Spice Route,Italian,Expensive,Bronx,3:28,1.51,true
+138,Mama Mia Pizzeria,Indian,Cheap,Queens,15:22,4.41,true
+139,La Petite Boulangerie,Mexican,Cheap,Staten Island,1:10,1.33,true
+140,Cafe Delight,Italian,Expensive,Bronx,9:59,3.11,true
+141,The Golden Rooster,Korean,Cheap,Brooklyn,17:54,4.12,false
+142,Sushi Paradise,Italian,Expensive,Queens,8:12,3.32,false
+143,The Cozy Corner,Thai,Cheap,Brooklyn,5:16,2.59,true
+144,The Golden Rooster,Chinese,Cheap,Manhattan,10:22,4.63,false
+145,Mama Mia Pizzeria,Korean,Medium,Manhattan,20:08,3.42,true
+146,The Cozy Corner,Spanish,Expensive,Queens,9:51,2.56,true
+147,The Spice Route,Thai,Expensive,Brooklyn,20:15,4.55,false
+148,Bella Italia,Japanese,Medium,Queens,8:11,4.33,false
+149,Mama Mia Pizzeria,French,Cheap,Bronx,14:40,3.39,true
+150,The Golden Rooster,Chinese,Cheap,Staten Island,4:54,4.95,false
+151,Sushi Paradise,Mexican,Expensive,Manhattan,21:53,2.29,true
+152,Cafe Delight,Mexican,Cheap,Manhattan,13:55,1.91,true
+153,The Cozy Corner,Korean,Medium,Bronx,16:37,3.3,false
+154,Mama Mia Pizzeria,Spanish,Cheap,Staten Island,15:30,4.96,true
+155,The Spice Route,Spanish,Expensive,Staten Island,6:51,3.55,true
+156,The Rustic Tavern,Thai,Cheap,Bronx,10:00,1.01,false
+157,Cafe Delight,Indian,Medium,Staten Island,17:41,3.66,false
+158,The Cozy Corner,Chinese,Expensive,Manhattan,22:51,4.38,true
+159,The Spice Route,Chinese,Expensive,Brooklyn,20:33,2.97,false
+160,Bella Italia,Thai,Cheap,Staten Island,0:05,1.24,false
+161,The Cozy Corner,Indian,Cheap,Brooklyn,14:52,2.31,false
+162,The Golden Rooster,Chinese,Cheap,Bronx,20:19,2.02,true
+163,The Spice Route,Thai,Expensive,Brooklyn,19:15,2.9,true
+164,Sushi Paradise,Japanese,Expensive,Queens,12:08,4.33,true
+165,The Cozy Corner,Thai,Cheap,Brooklyn,21:45,2.33,true
+166,The Spice Route,French,Expensive,Queens,1:02,2.46,true
+167,The Hungry Spoon,Greek,Medium,Manhattan,10:58,2.05,false
+168,The Spice Route,Japanese,Medium,Brooklyn,23:13,4.53,true
+169,Bella Italia,Spanish,Cheap,Brooklyn,4:25,4.14,false
+170,The Hungry Spoon,Indian,Medium,Bronx,22:02,4.2,false
+171,The Spice Route,Italian,Expensive,Manhattan,9:23,4.24,true
+172,Mama Mia Pizzeria,Mexican,Cheap,Staten Island,10:05,2.33,false
+173,Sushi Paradise,French,Cheap,Queens,10:06,3.75,false
+174,Sushi Paradise,Mexican,Expensive,Bronx,14:09,4.4,true
+175,Mama Mia Pizzeria,Mexican,Cheap,Manhattan,19:19,1.21,true
+176,Sushi Paradise,French,Cheap,Brooklyn,5:37,2.09,false
+177,La Petite Boulangerie,Greek,Expensive,Staten Island,7:04,3.87,false
+178,The Hungry Spoon,French,Cheap,Queens,18:50,1.04,true
+179,The Cozy Corner,Korean,Cheap,Manhattan,7:42,1.36,false
+180,Sushi Paradise,Chinese,Expensive,Manhattan,5:49,1.9,true
+181,The Hungry Spoon,Chinese,Medium,Staten Island,0:51,2.17,true
+182,The Cozy Corner,Chinese,Expensive,Manhattan,2:44,4.85,true
+183,The Cozy Corner,French,Cheap,Queens,0:08,1.45,true
+184,The Golden Rooster,Korean,Cheap,Queens,12:20,3.6,true
+185,Sushi Paradise,Italian,Medium,Bronx,12:03,2.75,false
+186,The Golden Rooster,Indian,Expensive,Bronx,14:45,1.41,false
+187,The Spice Route,Japanese,Expensive,Staten Island,17:19,3.7,true
+188,Bella Italia,Chinese,Medium,Queens,13:24,3.17,false
+189,Mama Mia Pizzeria,Mexican,Medium,Bronx,18:57,1.54,true
+190,The Cozy Corner,Chinese,Medium,Manhattan,3:15,3.9,false
+191,The Hungry Spoon,Spanish,Cheap,Manhattan,8:29,1.86,true
+192,Sushi Paradise,Japanese,Medium,Manhattan,0:49,4.4,true
+193,The Rustic Tavern,Indian,Medium,Brooklyn,23:45,4.88,true
+194,La Petite Boulangerie,Greek,Medium,Staten Island,10:13,1.52,false
+195,The Cozy Corner,Japanese,Expensive,Staten Island,14:53,3.16,true
+196,The Golden Rooster,Italian,Cheap,Brooklyn,0:31,4.88,false
+197,Sushi Paradise,Mexican,Expensive,Bronx,11:16,3.83,false
+198,The Spice Route,Mexican,Expensive,Manhattan,16:27,3.5,true
+199,The Spice Route,Spanish,Expensive,Manhattan,15:12,4.5,true
+200,The Spice Route,Italian,Cheap,Brooklyn,13:09,2.02,true
+201,The Rustic Tavern,Thai,Cheap,Staten Island,12:41,4.66,true
+202,Cafe Delight,Greek,Medium,Manhattan,18:11,3.06,false
+203,Bella Italia,Italian,Expensive,Manhattan,5:42,4.21,true
+204,Sushi Paradise,Spanish,Cheap,Queens,23:00,3.33,false
+205,Bella Italia,Spanish,Expensive,Bronx,11:19,3.95,true
+206,Bella Italia,Chinese,Expensive,Queens,17:19,3.16,true
+207,The Cozy Corner,Korean,Cheap,Queens,21:34,2.64,false
+208,La Petite Boulangerie,Greek,Medium,Staten Island,18:13,4.52,false
+209,Cafe Delight,Mexican,Cheap,Queens,4:17,1.14,true
+210,Bella Italia,Indian,Expensive,Manhattan,0:02,1.82,true
+211,Sushi Paradise,Greek,Cheap,Brooklyn,9:14,3.37,true
+212,The Cozy Corner,Indian,Cheap,Staten Island,19:32,3.66,false
+213,Cafe Delight,Italian,Cheap,Manhattan,2:47,4.69,true
+214,The Spice Route,Thai,Expensive,Brooklyn,0:36,1.07,false
+215,Bella Italia,Korean,Expensive,Queens,4:26,4.7,true
+216,Cafe Delight,Japanese,Cheap,Bronx,7:32,4.02,false
+217,The Spice Route,Greek,Medium,Bronx,19:08,2.83,true
+218,La Petite Boulangerie,Korean,Medium,Brooklyn,5:46,1.73,false
+219,La Petite Boulangerie,Korean,Medium,Staten Island,11:46,3.21,true
+220,Sushi Paradise,Chinese,Cheap,Bronx,23:34,1.47,false
+221,Mama Mia Pizzeria,Korean,Cheap,Staten Island,8:20,3.8,false
+222,The Rustic Tavern,Spanish,Expensive,Queens,23:20,4.01,true
+223,The Rustic Tavern,Japanese,Cheap,Staten Island,21:09,4.63,false
+224,The Cozy Corner,French,Cheap,Queens,8:07,1.92,false
+225,Mama Mia Pizzeria,Thai,Expensive,Bronx,13:26,2.78,false
+226,Mama Mia Pizzeria,Thai,Cheap,Bronx,9:09,2.71,false
+227,The Rustic Tavern,Chinese,Medium,Manhattan,23:42,3.87,true
+228,The Golden Rooster,Spanish,Medium,Brooklyn,2:12,1.22,true
+229,The Hungry Spoon,Italian,Cheap,Queens,10:29,1.66,false
+230,Cafe Delight,Japanese,Cheap,Staten Island,4:30,1.47,false
+231,Mama Mia Pizzeria,Japanese,Medium,Brooklyn,23:50,2.51,true
+232,La Petite Boulangerie,Thai,Cheap,Manhattan,19:41,4.94,false
+233,Mama Mia Pizzeria,Italian,Expensive,Brooklyn,3:39,4.52,false
+234,Bella Italia,French,Expensive,Queens,4:20,3.13,false
+235,La Petite Boulangerie,Greek,Expensive,Staten Island,12:52,4.48,false
+236,The Spice Route,Korean,Cheap,Queens,21:58,3.97,false
+237,Cafe Delight,Spanish,Expensive,Manhattan,14:45,2.33,true
+238,Bella Italia,Indian,Expensive,Bronx,3:09,4.44,false
+239,La Petite Boulangerie,Spanish,Expensive,Queens,20:06,1.33,true
+240,The Rustic Tavern,Mexican,Medium,Manhattan,1:31,1.23,true
+241,La Petite Boulangerie,Korean,Medium,Staten Island,17:22,3.33,true
+242,The Golden Rooster,Thai,Medium,Brooklyn,19:18,2.53,false
+243,Sushi Paradise,French,Medium,Manhattan,18:15,4.64,true
+244,The Hungry Spoon,French,Cheap,Bronx,4:29,3.59,true
+245,The Golden Rooster,Spanish,Cheap,Brooklyn,10:12,1.85,true
+246,La Petite Boulangerie,Japanese,Expensive,Bronx,16:08,1.4,true
+247,The Hungry Spoon,Japanese,Expensive,Queens,15:31,4.41,false
+248,The Cozy Corner,Greek,Cheap,Manhattan,16:56,1.53,true
+249,The Golden Rooster,Thai,Expensive,Manhattan,18:27,1.95,false
+250,La Petite Boulangerie,Greek,Cheap,Queens,6:36,1.65,false
+251,The Golden Rooster,Chinese,Cheap,Bronx,11:06,1.87,true
+252,Sushi Paradise,Greek,Medium,Manhattan,9:42,1.59,true
+253,The Rustic Tavern,Indian,Cheap,Brooklyn,22:47,2.47,true
+254,The Cozy Corner,Thai,Cheap,Bronx,21:54,2.24,false
+255,The Spice Route,French,Medium,Manhattan,7:42,1.93,false
+256,The Cozy Corner,Spanish,Cheap,Bronx,6:56,3.44,false
+257,Mama Mia Pizzeria,Thai,Medium,Queens,4:42,1.24,true
+258,Bella Italia,Japanese,Cheap,Staten Island,16:26,4.74,false
+259,Bella Italia,Thai,Medium,Queens,9:38,3.5,true
+260,The Cozy Corner,Korean,Expensive,Brooklyn,4:43,2.02,true
+261,La Petite Boulangerie,Greek,Medium,Brooklyn,4:16,2.51,false
+262,The Golden Rooster,Korean,Medium,Manhattan,21:06,2.7,true
+263,La Petite Boulangerie,Greek,Expensive,Queens,3:35,3.94,false
+264,The Spice Route,French,Expensive,Bronx,1:13,2.22,false
+265,Bella Italia,Chinese,Cheap,Staten Island,4:17,3.89,false
+266,Cafe Delight,Greek,Cheap,Manhattan,9:29,4.21,false
+267,The Rustic Tavern,Mexican,Medium,Bronx,11:48,4.78,false
+268,Cafe Delight,Greek,Medium,Brooklyn,10:23,2.58,true
+269,Sushi Paradise,Thai,Cheap,Manhattan,0:49,3.05,true
+270,The Rustic Tavern,Greek,Cheap,Bronx,13:24,4.78,false
+271,Cafe Delight,Chinese,Medium,Manhattan,16:48,3.67,true
+272,Sushi Paradise,Spanish,Medium,Brooklyn,10:49,1.06,true
+273,Sushi Paradise,French,Medium,Staten Island,9:49,2.64,false
+274,La Petite Boulangerie,French,Cheap,Brooklyn,20:26,1.77,true
+275,The Cozy Corner,French,Medium,Queens,5:25,1.92,false
+276,The Cozy Corner,Korean,Expensive,Queens,5:44,3.65,false
+277,The Spice Route,Japanese,Expensive,Queens,4:01,4.39,false
+278,Bella Italia,Japanese,Medium,Queens,17:22,3.46,true
+279,The Hungry Spoon,Spanish,Cheap,Brooklyn,5:19,1.82,true
+280,The Rustic Tavern,Italian,Expensive,Queens,5:26,2.5,false
+281,Cafe Delight,Indian,Cheap,Queens,21:45,3.47,false
+282,Mama Mia Pizzeria,Indian,Medium,Staten Island,3:28,3.43,false
+283,Cafe Delight,Korean,Medium,Brooklyn,21:57,4.01,true
+284,The Rustic Tavern,Chinese,Medium,Bronx,21:53,4.66,true
+285,The Hungry Spoon,Thai,Medium,Bronx,9:17,2.0,false
+286,The Hungry Spoon,Korean,Expensive,Queens,3:35,3.11,true
+287,The Hungry Spoon,Korean,Medium,Bronx,1:40,2.33,true
+288,Sushi Paradise,French,Expensive,Manhattan,9:53,4.56,true
+289,Mama Mia Pizzeria,Italian,Cheap,Bronx,8:41,1.73,true
+290,The Golden Rooster,Chinese,Expensive,Brooklyn,17:37,2.28,false
+291,The Rustic Tavern,Japanese,Expensive,Staten Island,8:21,2.96,true
+292,The Hungry Spoon,Indian,Cheap,Brooklyn,8:12,2.49,false
+293,Cafe Delight,Korean,Expensive,Manhattan,7:39,1.78,true
+294,The Cozy Corner,Spanish,Cheap,Queens,9:32,1.78,true
+295,Bella Italia,Korean,Cheap,Queens,16:11,3.62,false
+296,Sushi Paradise,Greek,Expensive,Bronx,13:49,2.15,true
+297,Sushi Paradise,Mexican,Cheap,Brooklyn,16:05,3.7,false
+298,The Cozy Corner,Mexican,Cheap,Staten Island,23:41,4.4,true
+299,The Golden Rooster,Mexican,Expensive,Bronx,22:08,2.88,true
+300,The Cozy Corner,Italian,Expensive,Queens,4:27,2.94,false
+301,The Spice Route,Chinese,Expensive,Staten Island,8:10,1.3,false
+302,Mama Mia Pizzeria,Italian,Medium,Manhattan,7:52,1.76,true
+303,The Hungry Spoon,Japanese,Cheap,Brooklyn,1:39,2.01,true
+304,Sushi Paradise,Indian,Medium,Brooklyn,20:44,3.03,true
+305,Sushi Paradise,Thai,Expensive,Brooklyn,15:06,3.98,true
+306,Bella Italia,Korean,Medium,Brooklyn,16:48,4.92,true
+307,La Petite Boulangerie,French,Medium,Brooklyn,6:39,3.67,true
+308,The Hungry Spoon,Spanish,Medium,Brooklyn,15:37,2.34,false
+309,The Spice Route,Korean,Expensive,Queens,22:47,4.39,false
+310,The Cozy Corner,Korean,Expensive,Bronx,20:44,4.33,true
+311,The Rustic Tavern,Spanish,Medium,Manhattan,18:18,2.88,true
+312,The Cozy Corner,Thai,Medium,Bronx,17:30,2.66,true
+313,The Golden Rooster,Korean,Medium,Staten Island,1:56,3.58,false
+314,Sushi Paradise,Italian,Medium,Staten Island,14:36,2.01,true
+315,Cafe Delight,Spanish,Expensive,Bronx,10:37,3.41,true
+316,Sushi Paradise,Mexican,Medium,Bronx,3:04,2.15,false
+317,Cafe Delight,Spanish,Cheap,Bronx,20:08,1.42,true
+318,La Petite Boulangerie,Indian,Cheap,Staten Island,15:41,1.48,false
+319,Bella Italia,Chinese,Expensive,Staten Island,18:40,2.56,true
+320,The Spice Route,Mexican,Expensive,Brooklyn,9:05,2.52,false
+321,Sushi Paradise,Mexican,Expensive,Manhattan,11:56,2.06,false
+322,The Spice Route,Greek,Medium,Staten Island,15:20,4.47,false
+323,Mama Mia Pizzeria,Thai,Expensive,Manhattan,5:40,4.34,true
+324,The Spice Route,Japanese,Cheap,Brooklyn,14:49,2.95,false
+325,La Petite Boulangerie,Chinese,Expensive,Queens,22:26,4.59,false
+326,The Hungry Spoon,Italian,Expensive,Bronx,16:18,2.96,true
+327,Sushi Paradise,Japanese,Medium,Queens,22:59,4.94,false
+328,Sushi Paradise,Thai,Cheap,Manhattan,5:57,4.19,false
+329,Mama Mia Pizzeria,Korean,Cheap,Staten Island,20:36,4.36,true
+330,Mama Mia Pizzeria,Chinese,Medium,Manhattan,20:44,2.85,false
+331,The Golden Rooster,French,Medium,Queens,11:06,1.06,false
+332,Mama Mia Pizzeria,French,Medium,Brooklyn,0:34,3.17,false
+333,The Rustic Tavern,Mexican,Expensive,Queens,23:32,3.06,true
+334,The Golden Rooster,Japanese,Medium,Manhattan,20:08,1.67,false
+335,Mama Mia Pizzeria,Greek,Cheap,Staten Island,7:13,2.54,true
+336,The Cozy Corner,Italian,Cheap,Staten Island,11:48,4.88,false
+337,The Cozy Corner,Italian,Cheap,Bronx,18:49,3.25,false
+338,Sushi Paradise,Chinese,Expensive,Queens,7:34,1.92,false
+339,The Golden Rooster,Greek,Expensive,Queens,8:32,4.96,false
+340,Cafe Delight,Chinese,Expensive,Manhattan,14:30,1.48,true
+341,The Golden Rooster,Thai,Expensive,Bronx,16:12,3.83,true
+342,The Spice Route,Italian,Medium,Queens,3:12,3.71,false
+343,The Cozy Corner,Greek,Medium,Bronx,20:33,2.14,true
+344,Cafe Delight,Korean,Expensive,Bronx,11:20,2.58,true
+345,La Petite Boulangerie,Mexican,Cheap,Bronx,13:11,2.49,true
+346,The Golden Rooster,Korean,Cheap,Queens,13:41,1.94,true
+347,The Cozy Corner,Thai,Expensive,Manhattan,10:23,4.76,true
+348,The Golden Rooster,Japanese,Cheap,Queens,4:57,1.55,false
+349,La Petite Boulangerie,Greek,Cheap,Staten Island,2:58,4.5,false
+350,The Golden Rooster,Thai,Expensive,Bronx,1:06,3.42,true
+351,The Hungry Spoon,Thai,Cheap,Staten Island,17:09,1.16,false
+352,Cafe Delight,French,Cheap,Bronx,1:33,3.44,true
+353,Cafe Delight,Mexican,Cheap,Bronx,22:27,2.0,false
+354,Mama Mia Pizzeria,Italian,Medium,Manhattan,4:40,1.28,false
+355,Bella Italia,Italian,Cheap,Queens,10:52,3.08,true
+356,The Golden Rooster,Chinese,Expensive,Brooklyn,20:11,4.03,true
+357,Mama Mia Pizzeria,Greek,Cheap,Brooklyn,13:22,3.96,false
+358,The Spice Route,Korean,Medium,Staten Island,20:35,4.58,true
+359,Bella Italia,Greek,Cheap,Brooklyn,18:14,1.91,false
+360,The Golden Rooster,French,Cheap,Staten Island,3:38,4.16,false
+361,La Petite Boulangerie,Korean,Cheap,Queens,19:36,3.35,true
+362,The Hungry Spoon,French,Expensive,Bronx,0:46,2.67,false
+363,The Golden Rooster,Chinese,Expensive,Brooklyn,22:30,3.02,true
+364,The Golden Rooster,Japanese,Cheap,Bronx,23:11,4.86,false
+365,The Rustic Tavern,Korean,Medium,Manhattan,1:19,3.26,false
+366,The Spice Route,Indian,Cheap,Staten Island,2:07,1.62,false
+367,The Golden Rooster,Korean,Cheap,Queens,7:51,2.92,true
+368,Sushi Paradise,Korean,Expensive,Manhattan,23:21,3.65,true
+369,The Golden Rooster,Spanish,Cheap,Queens,19:30,3.39,true
+370,Sushi Paradise,French,Expensive,Manhattan,14:24,3.47,false
+371,Sushi Paradise,Spanish,Medium,Bronx,23:12,1.15,true
+372,The Cozy Corner,French,Cheap,Queens,21:06,2.18,true
+373,Sushi Paradise,Italian,Medium,Manhattan,19:24,2.71,false
+374,Sushi Paradise,Indian,Cheap,Brooklyn,1:06,4.73,false
+375,Mama Mia Pizzeria,Spanish,Medium,Brooklyn,8:38,2.75,false
+376,La Petite Boulangerie,Indian,Medium,Queens,21:20,3.43,false
+377,The Cozy Corner,Spanish,Expensive,Bronx,20:05,4.32,false
+378,The Rustic Tavern,Thai,Expensive,Staten Island,1:56,2.26,true
+379,The Cozy Corner,Italian,Cheap,Staten Island,8:14,3.8,true
+380,The Golden Rooster,Korean,Medium,Staten Island,12:39,4.95,true
+381,La Petite Boulangerie,Mexican,Medium,Brooklyn,7:44,2.03,true
+382,The Rustic Tavern,Greek,Cheap,Staten Island,15:34,1.99,true
+383,Sushi Paradise,Thai,Cheap,Queens,13:46,3.28,true
+384,The Rustic Tavern,Thai,Cheap,Manhattan,20:38,3.34,false
+385,The Rustic Tavern,French,Cheap,Staten Island,0:25,1.98,true
+386,The Golden Rooster,Indian,Cheap,Bronx,23:17,1.47,true
+387,The Spice Route,Mexican,Expensive,Brooklyn,1:53,1.84,true
+388,Cafe Delight,Italian,Medium,Manhattan,20:54,2.62,true
+389,The Spice Route,Italian,Expensive,Staten Island,7:50,3.7,true
+390,The Golden Rooster,Thai,Medium,Bronx,10:05,1.11,true
+391,The Cozy Corner,Chinese,Medium,Manhattan,19:06,1.24,true
+392,The Golden Rooster,Greek,Medium,Staten Island,2:00,3.47,false
+393,The Spice Route,Japanese,Medium,Brooklyn,14:33,1.19,false
+394,The Hungry Spoon,Indian,Cheap,Staten Island,21:42,2.22,true
+395,Mama Mia Pizzeria,Chinese,Medium,Staten Island,18:30,4.49,false
+396,The Spice Route,Greek,Cheap,Brooklyn,17:21,4.68,false
+397,La Petite Boulangerie,Chinese,Expensive,Brooklyn,12:33,2.74,true
+398,The Golden Rooster,Thai,Medium,Queens,13:16,3.12,false
+399,La Petite Boulangerie,Chinese,Cheap,Bronx,22:56,3.06,true
+400,The Cozy Corner,French,Medium,Brooklyn,23:27,3.88,false
+401,La Petite Boulangerie,Greek,Medium,Manhattan,4:08,4.84,false
+402,The Spice Route,Italian,Expensive,Bronx,15:04,1.37,true
+403,La Petite Boulangerie,Indian,Expensive,Bronx,4:05,4.69,true
+404,The Golden Rooster,Chinese,Medium,Manhattan,18:56,1.38,false
+405,Cafe Delight,Mexican,Expensive,Staten Island,20:47,1.79,false
+406,La Petite Boulangerie,Mexican,Expensive,Manhattan,6:04,2.14,true
+407,Bella Italia,Greek,Expensive,Bronx,16:40,4.16,false
+408,Mama Mia Pizzeria,Italian,Medium,Bronx,12:25,1.31,false
+409,The Hungry Spoon,Spanish,Cheap,Bronx,15:11,1.82,true
+410,The Rustic Tavern,Italian,Expensive,Manhattan,11:47,3.1,true
+411,The Rustic Tavern,Spanish,Expensive,Manhattan,19:50,3.85,false
+412,Mama Mia Pizzeria,Korean,Expensive,Brooklyn,20:46,2.83,false
+413,Bella Italia,French,Cheap,Staten Island,15:40,4.85,false
+414,The Cozy Corner,Korean,Expensive,Bronx,10:47,3.39,true
+415,The Hungry Spoon,Indian,Medium,Bronx,15:51,3.8,true
+416,La Petite Boulangerie,Chinese,Cheap,Brooklyn,10:15,4.54,true
+417,La Petite Boulangerie,Korean,Medium,Bronx,23:41,1.78,true
+418,The Hungry Spoon,Indian,Cheap,Bronx,4:36,1.21,false
+419,The Hungry Spoon,Indian,Medium,Bronx,11:54,3.15,false
+420,Cafe Delight,Italian,Expensive,Brooklyn,10:34,1.37,true
+421,Sushi Paradise,Thai,Cheap,Staten Island,17:57,4.56,true
+422,Sushi Paradise,Korean,Expensive,Staten Island,21:42,1.04,true
+423,Bella Italia,Greek,Expensive,Manhattan,7:48,1.35,false
+424,Sushi Paradise,Japanese,Cheap,Bronx,13:11,1.6,true
+425,Bella Italia,Spanish,Cheap,Brooklyn,1:50,1.48,true
+426,The Spice Route,Greek,Cheap,Brooklyn,17:58,3.8,true
+427,Bella Italia,French,Medium,Manhattan,9:35,3.04,false
+428,The Rustic Tavern,Chinese,Cheap,Staten Island,13:19,3.03,false
+429,Cafe Delight,Greek,Cheap,Manhattan,17:48,1.43,false
+430,Bella Italia,Japanese,Medium,Bronx,14:42,3.32,false
+431,The Golden Rooster,Spanish,Cheap,Manhattan,11:24,2.34,true
+432,Bella Italia,Korean,Medium,Bronx,23:30,3.55,false
+433,The Rustic Tavern,Chinese,Expensive,Staten Island,10:53,3.5,true
+434,The Rustic Tavern,Indian,Expensive,Bronx,15:43,4.67,false
+435,The Rustic Tavern,Greek,Cheap,Bronx,18:57,3.74,false
+436,Mama Mia Pizzeria,Indian,Medium,Bronx,13:14,1.63,false
+437,The Rustic Tavern,Mexican,Expensive,Brooklyn,14:32,1.46,false
+438,Sushi Paradise,Japanese,Expensive,Staten Island,13:40,1.3,false
+439,The Cozy Corner,Chinese,Cheap,Manhattan,11:28,4.75,true
+440,La Petite Boulangerie,French,Medium,Bronx,1:24,2.14,false
+441,Sushi Paradise,Chinese,Cheap,Brooklyn,4:22,4.71,false
+442,The Golden Rooster,Spanish,Expensive,Queens,2:30,1.65,true
+443,Bella Italia,Indian,Expensive,Staten Island,23:53,2.45,false
+444,The Golden Rooster,Korean,Medium,Bronx,4:30,4.49,true
+445,The Cozy Corner,French,Expensive,Queens,14:17,1.26,true
+446,The Cozy Corner,Spanish,Expensive,Queens,12:50,3.44,true
+447,The Cozy Corner,Chinese,Cheap,Queens,20:09,3.33,true
+448,La Petite Boulangerie,Italian,Cheap,Manhattan,12:15,4.98,true
+449,The Rustic Tavern,Spanish,Cheap,Staten Island,10:38,4.37,true
+450,The Cozy Corner,Chinese,Medium,Bronx,13:00,4.29,false
+451,Cafe Delight,Italian,Expensive,Manhattan,7:15,3.23,false
+452,La Petite Boulangerie,Thai,Medium,Manhattan,22:31,2.58,true
+453,The Cozy Corner,Chinese,Expensive,Bronx,6:18,3.6,false
+454,Cafe Delight,Japanese,Medium,Queens,1:14,4.44,false
+455,Sushi Paradise,Indian,Expensive,Bronx,19:21,2.86,false
+456,Bella Italia,Mexican,Cheap,Queens,18:44,4.46,true
+457,Mama Mia Pizzeria,French,Cheap,Manhattan,13:29,3.99,false
+458,La Petite Boulangerie,Spanish,Medium,Manhattan,2:24,2.46,true
+459,La Petite Boulangerie,Italian,Cheap,Brooklyn,16:19,1.73,true
+460,Bella Italia,Mexican,Cheap,Manhattan,12:31,1.22,false
+461,Mama Mia Pizzeria,Mexican,Medium,Brooklyn,2:15,2.85,true
+462,The Hungry Spoon,Indian,Expensive,Manhattan,21:29,1.88,true
+463,The Spice Route,Thai,Expensive,Bronx,0:26,1.25,true
+464,The Hungry Spoon,Indian,Expensive,Queens,1:16,3.12,true
+465,The Spice Route,Chinese,Medium,Brooklyn,12:32,1.51,true
+466,The Golden Rooster,Korean,Expensive,Brooklyn,6:02,3.55,true
+467,The Spice Route,Mexican,Expensive,Staten Island,20:41,4.16,true
+468,Mama Mia Pizzeria,French,Cheap,Queens,22:29,1.84,true
+469,The Hungry Spoon,Greek,Expensive,Manhattan,3:08,2.66,true
+470,The Cozy Corner,Japanese,Medium,Brooklyn,17:48,1.57,true
+471,The Rustic Tavern,Indian,Cheap,Bronx,2:07,3.85,false
+472,The Golden Rooster,Thai,Cheap,Queens,15:15,3.46,true
+473,The Rustic Tavern,Korean,Expensive,Staten Island,0:31,4.46,true
+474,Bella Italia,Japanese,Medium,Brooklyn,3:08,3.92,false
+475,The Cozy Corner,Spanish,Medium,Brooklyn,18:41,1.85,true
+476,Sushi Paradise,Indian,Expensive,Staten Island,8:26,3.19,false
+477,Mama Mia Pizzeria,Chinese,Medium,Bronx,21:30,4.07,false
+478,The Rustic Tavern,Indian,Medium,Brooklyn,1:15,3.58,true
+479,Mama Mia Pizzeria,Greek,Cheap,Brooklyn,7:40,1.94,true
+480,The Hungry Spoon,Korean,Expensive,Bronx,7:30,1.78,false
+481,The Golden Rooster,Greek,Expensive,Manhattan,23:18,2.06,true
+482,Sushi Paradise,Spanish,Cheap,Queens,23:50,1.86,false
+483,The Cozy Corner,Indian,Medium,Bronx,3:42,3.12,false
+484,The Golden Rooster,Greek,Medium,Bronx,20:17,4.82,true
+485,The Cozy Corner,Thai,Expensive,Manhattan,19:25,1.34,false
+486,La Petite Boulangerie,Indian,Expensive,Manhattan,15:19,1.46,false
+487,The Hungry Spoon,Spanish,Medium,Queens,0:51,3.83,false
+488,Bella Italia,Japanese,Expensive,Queens,14:40,3.01,false
+489,Cafe Delight,Japanese,Expensive,Brooklyn,1:26,3.11,false
+490,The Cozy Corner,Chinese,Medium,Bronx,13:14,4.45,false
+491,The Hungry Spoon,Japanese,Expensive,Bronx,10:46,2.46,true
+492,La Petite Boulangerie,Chinese,Expensive,Manhattan,4:47,4.63,false
+493,La Petite Boulangerie,Thai,Expensive,Bronx,0:29,3.0,true
+494,Cafe Delight,Spanish,Expensive,Manhattan,22:19,4.57,false
+495,The Rustic Tavern,Thai,Cheap,Bronx,3:04,2.66,true
+496,The Golden Rooster,Italian,Medium,Queens,7:42,3.75,false
+497,Mama Mia Pizzeria,Thai,Medium,Staten Island,20:44,3.04,false
+498,The Spice Route,Thai,Expensive,Manhattan,15:31,3.43,true
+499,The Rustic Tavern,Indian,Expensive,Manhattan,15:47,3.97,true
+500,The Spice Route,Indian,Medium,Manhattan,14:36,1.26,true
+501,Cafe Delight,Spanish,Cheap,Manhattan,8:41,3.22,false
+502,La Petite Boulangerie,Korean,Medium,Brooklyn,11:27,3.91,false
+503,Cafe Delight,Greek,Medium,Brooklyn,19:26,3.23,true
+504,The Cozy Corner,Chinese,Medium,Manhattan,13:48,4.48,true
+505,Mama Mia Pizzeria,Chinese,Expensive,Bronx,15:07,4.89,false
+506,Bella Italia,Greek,Cheap,Queens,19:31,1.85,false
+507,Cafe Delight,French,Cheap,Bronx,15:51,4.07,false
+508,Sushi Paradise,Spanish,Medium,Brooklyn,2:17,2.94,true
+509,Sushi Paradise,Spanish,Cheap,Manhattan,16:15,1.58,true
+510,Mama Mia Pizzeria,Chinese,Medium,Manhattan,15:53,3.28,true
+511,Cafe Delight,Thai,Expensive,Brooklyn,20:59,3.21,false
+512,La Petite Boulangerie,Japanese,Medium,Queens,5:16,2.34,false
+513,La Petite Boulangerie,Indian,Cheap,Staten Island,16:55,3.95,false
+514,The Hungry Spoon,Thai,Medium,Brooklyn,4:00,1.58,false
+515,The Cozy Corner,Spanish,Expensive,Queens,2:50,3.86,false
+516,The Rustic Tavern,Chinese,Cheap,Queens,22:09,4.51,true
+517,The Golden Rooster,Greek,Medium,Staten Island,23:07,1.29,true
+518,Sushi Paradise,Korean,Medium,Bronx,17:19,2.73,false
+519,Cafe Delight,Greek,Medium,Brooklyn,17:50,2.03,true
+520,Bella Italia,Chinese,Medium,Brooklyn,14:54,3.87,true
+521,The Hungry Spoon,Spanish,Expensive,Manhattan,7:36,4.95,true
+522,The Rustic Tavern,Spanish,Medium,Bronx,1:23,1.06,true
+523,Mama Mia Pizzeria,Korean,Cheap,Queens,6:53,2.87,false
+524,The Golden Rooster,Mexican,Cheap,Brooklyn,0:18,2.35,true
+525,The Cozy Corner,French,Medium,Staten Island,8:26,4.1,true
+526,Cafe Delight,Indian,Cheap,Queens,20:57,2.42,false
+527,The Golden Rooster,Japanese,Cheap,Staten Island,9:48,3.74,true
+528,Cafe Delight,Korean,Cheap,Bronx,10:19,2.08,true
+529,The Rustic Tavern,Japanese,Cheap,Brooklyn,9:30,2.13,true
+530,The Golden Rooster,Thai,Expensive,Brooklyn,6:19,3.35,false
+531,Bella Italia,Japanese,Cheap,Staten Island,11:11,3.91,false
+532,La Petite Boulangerie,Korean,Medium,Staten Island,23:18,2.12,true
+533,The Hungry Spoon,Greek,Medium,Staten Island,9:42,1.06,true
+534,The Golden Rooster,Japanese,Expensive,Brooklyn,4:06,1.35,true
+535,The Hungry Spoon,Indian,Medium,Bronx,7:17,2.42,false
+536,The Hungry Spoon,Italian,Cheap,Staten Island,19:37,2.33,false
+537,The Spice Route,Chinese,Cheap,Bronx,17:23,4.73,false
+538,Mama Mia Pizzeria,Korean,Expensive,Staten Island,8:36,1.05,true
+539,The Golden Rooster,Korean,Expensive,Queens,6:05,3.89,true
+540,Cafe Delight,Italian,Expensive,Staten Island,8:27,4.36,true
+541,The Cozy Corner,Chinese,Cheap,Queens,16:05,2.68,false
+542,The Golden Rooster,Spanish,Cheap,Staten Island,16:35,2.34,true
+543,The Hungry Spoon,Mexican,Expensive,Brooklyn,4:41,4.48,true
+544,Bella Italia,Korean,Medium,Brooklyn,21:01,4.7,true
+545,The Golden Rooster,Italian,Medium,Brooklyn,7:32,3.59,false
+546,The Cozy Corner,French,Medium,Queens,18:52,4.02,true
+547,The Golden Rooster,Greek,Medium,Staten Island,1:07,3.21,false
+548,Sushi Paradise,Greek,Expensive,Staten Island,1:03,4.93,false
+549,Mama Mia Pizzeria,Japanese,Expensive,Manhattan,12:12,1.0,false
+550,Cafe Delight,Greek,Expensive,Bronx,9:51,1.64,true
+551,The Golden Rooster,Spanish,Expensive,Queens,14:57,1.7,false
+552,Mama Mia Pizzeria,Spanish,Medium,Bronx,1:50,1.22,true
+553,The Hungry Spoon,Spanish,Cheap,Brooklyn,4:34,4.25,true
+554,The Spice Route,Spanish,Medium,Brooklyn,10:56,3.09,false
+555,The Golden Rooster,Japanese,Medium,Bronx,8:20,3.25,false
+556,Sushi Paradise,Japanese,Expensive,Queens,13:53,3.43,false
+557,The Rustic Tavern,Thai,Expensive,Queens,10:38,2.43,false
+558,Mama Mia Pizzeria,Mexican,Expensive,Brooklyn,2:36,2.72,false
+559,The Spice Route,Mexican,Expensive,Staten Island,17:20,3.53,true
+560,The Rustic Tavern,Thai,Cheap,Queens,4:55,1.22,true
+561,The Cozy Corner,Korean,Cheap,Manhattan,14:50,3.17,true
+562,The Hungry Spoon,Chinese,Medium,Queens,6:10,1.17,true
+563,Mama Mia Pizzeria,Indian,Cheap,Manhattan,1:55,4.11,true
+564,The Spice Route,Greek,Expensive,Staten Island,17:06,1.53,false
+565,The Spice Route,Greek,Medium,Manhattan,15:54,1.97,true
+566,La Petite Boulangerie,Thai,Cheap,Brooklyn,0:38,2.06,true
+567,The Cozy Corner,French,Cheap,Manhattan,22:04,1.96,false
+568,The Spice Route,Japanese,Medium,Manhattan,10:34,1.83,true
+569,The Spice Route,Thai,Expensive,Bronx,18:59,3.05,true
+570,The Spice Route,Korean,Cheap,Bronx,7:20,3.85,false
+571,The Golden Rooster,Thai,Medium,Brooklyn,12:31,1.96,false
+572,The Golden Rooster,Italian,Expensive,Manhattan,22:05,3.79,true
+573,La Petite Boulangerie,Korean,Cheap,Staten Island,9:01,1.85,false
+574,The Golden Rooster,Thai,Cheap,Queens,12:53,3.06,true
+575,Sushi Paradise,Japanese,Expensive,Queens,12:14,1.85,false
+576,The Hungry Spoon,Mexican,Medium,Manhattan,2:17,2.26,true
+577,The Rustic Tavern,Italian,Expensive,Brooklyn,16:18,4.04,true
+578,Mama Mia Pizzeria,Korean,Expensive,Manhattan,4:19,3.47,true
+579,The Spice Route,Indian,Expensive,Bronx,16:28,3.54,true
+580,Bella Italia,Italian,Medium,Brooklyn,8:57,3.07,false
+581,Sushi Paradise,Indian,Cheap,Manhattan,14:04,3.29,false
+582,Cafe Delight,Italian,Medium,Brooklyn,15:52,1.33,true
+583,The Cozy Corner,Mexican,Medium,Staten Island,3:22,1.17,false
+584,La Petite Boulangerie,Korean,Cheap,Bronx,12:48,4.78,false
+585,The Hungry Spoon,Chinese,Expensive,Bronx,21:32,3.2,true
+586,The Rustic Tavern,French,Cheap,Staten Island,3:56,3.78,false
+587,The Golden Rooster,Korean,Medium,Manhattan,14:32,1.26,false
+588,The Rustic Tavern,Mexican,Medium,Queens,19:30,3.64,true
+589,Sushi Paradise,Chinese,Cheap,Manhattan,6:35,2.91,true
+590,The Hungry Spoon,Indian,Cheap,Staten Island,16:23,2.69,false
+591,Sushi Paradise,Greek,Expensive,Bronx,6:58,3.25,true
+592,The Rustic Tavern,Chinese,Cheap,Queens,21:42,4.89,true
+593,The Spice Route,Mexican,Expensive,Brooklyn,7:06,3.13,true
+594,The Spice Route,Greek,Cheap,Queens,19:42,2.66,true
+595,Mama Mia Pizzeria,Japanese,Medium,Manhattan,2:33,3.17,true
+596,The Golden Rooster,Italian,Cheap,Staten Island,19:32,1.26,false
+597,Mama Mia Pizzeria,Chinese,Medium,Manhattan,18:18,2.4,true
+598,Cafe Delight,Thai,Expensive,Manhattan,14:28,2.17,true
+599,The Rustic Tavern,Greek,Cheap,Queens,16:36,1.86,true
+600,The Golden Rooster,Korean,Cheap,Bronx,5:42,2.13,true
+601,Cafe Delight,Japanese,Medium,Staten Island,17:32,1.9,false
+602,The Spice Route,French,Cheap,Staten Island,9:57,1.39,true
+603,Mama Mia Pizzeria,Indian,Medium,Bronx,1:04,3.04,true
+604,Sushi Paradise,Greek,Cheap,Staten Island,10:23,3.88,false
+605,The Cozy Corner,Japanese,Cheap,Queens,1:56,1.24,true
+606,Cafe Delight,Korean,Medium,Queens,13:24,4.81,true
+607,The Cozy Corner,Japanese,Expensive,Staten Island,7:55,3.14,true
+608,Sushi Paradise,Italian,Expensive,Bronx,6:38,1.32,false
+609,The Hungry Spoon,Korean,Medium,Queens,14:52,1.63,false
+610,The Golden Rooster,Indian,Cheap,Queens,4:21,3.52,false
+611,The Rustic Tavern,Indian,Medium,Manhattan,0:11,2.68,false
+612,Bella Italia,Chinese,Cheap,Manhattan,2:39,3.89,false
+613,Mama Mia Pizzeria,Spanish,Expensive,Queens,10:31,4.53,false
+614,La Petite Boulangerie,Spanish,Medium,Bronx,0:18,3.37,true
+615,The Spice Route,Japanese,Medium,Manhattan,3:51,1.42,false
+616,The Cozy Corner,Greek,Expensive,Manhattan,12:01,4.31,true
+617,The Rustic Tavern,Greek,Expensive,Bronx,15:50,4.45,true
+618,The Golden Rooster,French,Medium,Brooklyn,17:13,4.51,false
+619,The Golden Rooster,Thai,Expensive,Queens,11:59,3.81,false
+620,The Rustic Tavern,Greek,Cheap,Staten Island,2:57,1.65,true
+621,The Cozy Corner,Greek,Cheap,Brooklyn,8:27,3.05,false
+622,The Hungry Spoon,Greek,Cheap,Bronx,23:47,3.89,false
+623,The Spice Route,Thai,Expensive,Manhattan,4:45,3.47,true
+624,Bella Italia,Greek,Expensive,Queens,20:19,4.02,true
+625,Sushi Paradise,Mexican,Cheap,Bronx,21:15,3.27,false
+626,The Hungry Spoon,Chinese,Expensive,Manhattan,15:05,2.56,true
+627,Sushi Paradise,French,Expensive,Staten Island,1:42,2.27,false
+628,La Petite Boulangerie,Thai,Medium,Bronx,1:31,4.28,true
+629,The Cozy Corner,Korean,Cheap,Bronx,23:30,1.41,false
+630,Cafe Delight,Greek,Medium,Manhattan,7:18,4.44,true
+631,La Petite Boulangerie,Chinese,Expensive,Staten Island,4:20,4.26,true
+632,Cafe Delight,Korean,Expensive,Bronx,4:49,4.71,true
+633,The Golden Rooster,Korean,Medium,Staten Island,2:21,3.46,true
+634,The Hungry Spoon,French,Expensive,Brooklyn,3:40,4.73,false
+635,The Hungry Spoon,Chinese,Expensive,Staten Island,9:07,1.43,true
+636,The Spice Route,Japanese,Medium,Bronx,13:39,1.43,true
+637,Mama Mia Pizzeria,French,Medium,Bronx,9:04,3.89,false
+638,The Golden Rooster,Italian,Cheap,Manhattan,11:51,1.45,false
+639,Sushi Paradise,Korean,Expensive,Brooklyn,8:15,3.81,false
+640,The Cozy Corner,Thai,Medium,Manhattan,20:25,1.02,false
+641,The Spice Route,Japanese,Medium,Queens,18:53,3.8,true
+642,The Rustic Tavern,Italian,Cheap,Bronx,12:51,1.62,false
+643,The Cozy Corner,Italian,Medium,Staten Island,2:46,1.2,true
+644,Mama Mia Pizzeria,Greek,Cheap,Queens,21:33,4.59,false
+645,The Rustic Tavern,Spanish,Medium,Brooklyn,10:10,4.76,true
+646,The Rustic Tavern,Thai,Cheap,Manhattan,6:21,1.36,false
+647,Sushi Paradise,Indian,Expensive,Staten Island,20:44,2.18,true
+648,Mama Mia Pizzeria,Greek,Cheap,Staten Island,15:52,4.74,false
+649,Mama Mia Pizzeria,Italian,Expensive,Brooklyn,16:57,1.27,true
+650,Cafe Delight,Mexican,Medium,Queens,21:25,1.77,false
+651,The Spice Route,French,Medium,Staten Island,14:16,2.34,false
+652,The Hungry Spoon,French,Cheap,Staten Island,14:33,4.35,true
+653,Cafe Delight,Spanish,Expensive,Bronx,18:17,1.62,false
+654,Sushi Paradise,Spanish,Cheap,Brooklyn,7:57,2.91,false
+655,The Hungry Spoon,Spanish,Medium,Staten Island,23:51,2.51,false
+656,The Rustic Tavern,Indian,Medium,Queens,9:39,2.1,false
+657,The Golden Rooster,Thai,Expensive,Staten Island,8:36,4.91,true
+658,The Spice Route,Italian,Cheap,Bronx,5:07,3.72,true
+659,The Hungry Spoon,Thai,Expensive,Queens,15:35,1.59,true
+660,The Golden Rooster,Thai,Cheap,Staten Island,22:29,4.6,false
+661,Cafe Delight,French,Cheap,Staten Island,14:24,1.25,false
+662,The Hungry Spoon,Indian,Medium,Brooklyn,5:46,3.12,true
+663,Cafe Delight,Mexican,Expensive,Brooklyn,22:46,3.29,true
+664,La Petite Boulangerie,Italian,Medium,Staten Island,20:00,4.87,false
+665,The Rustic Tavern,French,Expensive,Manhattan,3:38,1.69,false
+666,The Hungry Spoon,Italian,Medium,Brooklyn,15:27,3.07,true
+667,The Golden Rooster,Japanese,Medium,Bronx,2:39,2.43,false
+668,The Hungry Spoon,French,Cheap,Staten Island,5:03,4.18,true
+669,Bella Italia,Thai,Cheap,Manhattan,23:15,3.37,true
+670,The Rustic Tavern,Indian,Medium,Bronx,16:30,1.03,true
+671,La Petite Boulangerie,French,Cheap,Queens,3:57,4.88,false
+672,La Petite Boulangerie,Italian,Expensive,Queens,2:44,2.85,false
+673,Bella Italia,French,Medium,Bronx,17:26,1.84,true
+674,The Golden Rooster,French,Medium,Manhattan,14:46,4.0,true
+675,La Petite Boulangerie,Indian,Medium,Manhattan,14:22,4.47,true
+676,The Cozy Corner,Mexican,Medium,Staten Island,0:12,1.66,false
+677,Sushi Paradise,Korean,Cheap,Manhattan,11:33,1.63,true
+678,Cafe Delight,French,Medium,Staten Island,9:51,2.93,true
+679,Cafe Delight,Japanese,Cheap,Bronx,11:38,4.45,false
+680,Bella Italia,Indian,Medium,Bronx,21:38,2.44,true
+681,The Hungry Spoon,Japanese,Medium,Queens,21:05,3.09,true
+682,The Golden Rooster,Italian,Medium,Bronx,13:18,4.66,false
+683,The Rustic Tavern,French,Expensive,Staten Island,0:51,2.82,false
+684,The Rustic Tavern,Japanese,Expensive,Queens,12:56,3.65,false
+685,The Rustic Tavern,Spanish,Cheap,Brooklyn,12:21,2.66,false
+686,The Hungry Spoon,Italian,Medium,Bronx,15:05,2.58,true
+687,Sushi Paradise,Spanish,Medium,Queens,9:51,4.43,true
+688,La Petite Boulangerie,Indian,Expensive,Manhattan,6:17,1.05,true
+689,Bella Italia,Spanish,Cheap,Bronx,13:37,4.89,true
+690,Cafe Delight,French,Cheap,Staten Island,9:06,4.85,false
+691,Sushi Paradise,Indian,Cheap,Bronx,10:15,3.49,false
+692,The Cozy Corner,Chinese,Medium,Staten Island,21:42,1.37,true
+693,The Hungry Spoon,Mexican,Expensive,Brooklyn,3:33,3.68,false
+694,The Rustic Tavern,French,Medium,Staten Island,5:35,2.01,false
+695,Cafe Delight,Japanese,Expensive,Bronx,21:48,1.01,false
+696,Cafe Delight,Mexican,Cheap,Staten Island,7:33,1.34,true
+697,The Spice Route,Japanese,Expensive,Brooklyn,19:50,4.05,false
+698,Mama Mia Pizzeria,Spanish,Cheap,Queens,23:34,1.1,false
+699,The Cozy Corner,Korean,Cheap,Brooklyn,7:33,2.86,true
+700,The Cozy Corner,Indian,Expensive,Manhattan,11:12,1.08,false
+701,The Rustic Tavern,Greek,Cheap,Manhattan,6:24,3.26,false
+702,Bella Italia,Thai,Medium,Bronx,21:54,2.02,false
+703,The Spice Route,French,Cheap,Staten Island,17:06,3.76,false
+704,Cafe Delight,Korean,Expensive,Brooklyn,3:34,3.1,false
+705,Sushi Paradise,French,Cheap,Bronx,11:07,3.16,false
+706,The Hungry Spoon,Japanese,Expensive,Queens,19:15,1.9,true
+707,Sushi Paradise,Japanese,Medium,Staten Island,13:01,2.22,false
+708,Bella Italia,Spanish,Cheap,Bronx,9:58,2.24,false
+709,The Spice Route,Indian,Cheap,Queens,14:19,4.04,false
+710,The Rustic Tavern,Japanese,Medium,Bronx,8:12,1.57,false
+711,The Rustic Tavern,Greek,Expensive,Brooklyn,23:04,1.1,false
+712,Cafe Delight,Chinese,Expensive,Bronx,16:05,3.89,true
+713,Sushi Paradise,Indian,Medium,Brooklyn,18:19,3.16,false
+714,The Cozy Corner,French,Medium,Manhattan,16:35,2.86,false
+715,La Petite Boulangerie,Korean,Medium,Queens,7:10,1.9,true
+716,The Spice Route,Spanish,Expensive,Queens,6:26,1.63,true
+717,Cafe Delight,Spanish,Expensive,Queens,17:15,4.69,true
+718,The Golden Rooster,Japanese,Expensive,Manhattan,10:47,3.42,true
+719,Bella Italia,Korean,Medium,Manhattan,7:29,2.08,false
+720,The Hungry Spoon,French,Cheap,Staten Island,1:49,3.3,false
+721,Bella Italia,Spanish,Cheap,Staten Island,7:54,2.37,false
+722,Bella Italia,Chinese,Cheap,Brooklyn,22:19,4.82,true
+723,La Petite Boulangerie,Mexican,Cheap,Manhattan,19:39,3.69,false
+724,The Cozy Corner,Japanese,Medium,Queens,20:31,4.27,false
+725,The Cozy Corner,Italian,Cheap,Queens,12:04,3.35,false
+726,Bella Italia,Japanese,Medium,Queens,13:42,3.4,false
+727,Sushi Paradise,Greek,Medium,Brooklyn,4:23,2.75,false
+728,La Petite Boulangerie,Japanese,Expensive,Brooklyn,13:29,1.95,false
+729,The Hungry Spoon,French,Expensive,Bronx,13:01,4.26,true
+730,Bella Italia,Greek,Cheap,Bronx,1:12,4.98,false
+731,La Petite Boulangerie,Indian,Cheap,Bronx,13:00,4.71,true
+732,The Golden Rooster,Chinese,Medium,Manhattan,2:22,2.4,true
+733,The Hungry Spoon,Chinese,Expensive,Manhattan,10:43,4.56,true
+734,Mama Mia Pizzeria,Korean,Cheap,Queens,10:54,2.04,false
+735,The Spice Route,Japanese,Cheap,Bronx,18:18,2.12,false
+736,Cafe Delight,Thai,Medium,Brooklyn,1:11,4.25,true
+737,Cafe Delight,Spanish,Medium,Brooklyn,21:27,4.12,false
+738,The Hungry Spoon,Greek,Cheap,Brooklyn,20:47,2.09,true
+739,The Cozy Corner,Italian,Expensive,Manhattan,1:58,1.36,true
+740,The Hungry Spoon,Korean,Cheap,Bronx,8:43,4.15,true
+741,The Rustic Tavern,Thai,Expensive,Bronx,12:19,3.66,true
+742,The Spice Route,Italian,Expensive,Staten Island,16:15,3.9,false
+743,Mama Mia Pizzeria,Mexican,Expensive,Bronx,23:22,4.68,true
+744,La Petite Boulangerie,Greek,Expensive,Bronx,11:58,1.41,true
+745,Bella Italia,Chinese,Expensive,Staten Island,7:06,4.17,false
+746,Cafe Delight,Spanish,Expensive,Manhattan,4:52,1.47,false
+747,Cafe Delight,Spanish,Cheap,Bronx,21:32,1.03,true
+748,Sushi Paradise,Thai,Expensive,Bronx,13:27,3.97,true
+749,Mama Mia Pizzeria,Italian,Expensive,Bronx,2:16,3.2,false
+750,The Cozy Corner,Chinese,Expensive,Queens,1:53,4.03,false
+751,The Cozy Corner,Japanese,Cheap,Queens,6:31,1.86,false
+752,Bella Italia,Korean,Cheap,Bronx,13:14,2.54,true
+753,Sushi Paradise,Italian,Cheap,Brooklyn,8:32,1.69,true
+754,The Hungry Spoon,Greek,Expensive,Staten Island,22:34,1.57,false
+755,La Petite Boulangerie,Thai,Medium,Bronx,10:34,3.67,false
+756,The Hungry Spoon,French,Cheap,Staten Island,11:11,3.8,true
+757,The Golden Rooster,Chinese,Cheap,Staten Island,17:55,2.98,false
+758,The Hungry Spoon,Korean,Cheap,Queens,21:24,3.2,false
+759,Sushi Paradise,French,Expensive,Queens,14:53,4.1,true
+760,The Spice Route,Mexican,Expensive,Manhattan,1:36,2.58,false
+761,Cafe Delight,Chinese,Cheap,Manhattan,7:37,3.66,false
+762,The Rustic Tavern,Mexican,Medium,Bronx,11:05,3.55,false
+763,The Spice Route,Indian,Cheap,Queens,20:25,1.1,true
+764,The Rustic Tavern,Korean,Cheap,Manhattan,2:00,1.28,false
+765,Cafe Delight,Spanish,Expensive,Manhattan,4:39,4.95,true
+766,Cafe Delight,Greek,Medium,Bronx,5:04,3.9,true
+767,The Golden Rooster,French,Cheap,Queens,8:25,4.87,true
+768,Bella Italia,Chinese,Cheap,Bronx,3:50,4.82,true
+769,Bella Italia,Italian,Cheap,Manhattan,14:30,3.04,true
+770,The Hungry Spoon,Thai,Medium,Bronx,0:42,1.32,false
+771,Cafe Delight,Japanese,Expensive,Brooklyn,15:49,1.68,false
+772,The Golden Rooster,Indian,Cheap,Brooklyn,15:56,2.5,false
+773,The Hungry Spoon,Spanish,Medium,Staten Island,15:12,3.21,true
+774,The Cozy Corner,Mexican,Medium,Staten Island,18:35,1.5,true
+775,Mama Mia Pizzeria,French,Cheap,Manhattan,3:11,1.13,true
+776,Cafe Delight,French,Expensive,Brooklyn,19:00,2.24,false
+777,The Golden Rooster,Italian,Medium,Bronx,18:38,3.41,true
+778,The Hungry Spoon,Greek,Cheap,Bronx,6:07,1.77,false
+779,Cafe Delight,Chinese,Cheap,Brooklyn,3:06,1.61,false
+780,The Hungry Spoon,Japanese,Medium,Brooklyn,10:41,2.02,false
+781,Cafe Delight,Korean,Cheap,Manhattan,4:10,4.33,true
+782,The Rustic Tavern,Italian,Expensive,Bronx,1:24,2.35,false
+783,The Rustic Tavern,Korean,Medium,Staten Island,11:32,1.37,false
+784,The Golden Rooster,Mexican,Medium,Bronx,13:29,2.66,true
+785,Cafe Delight,Chinese,Medium,Staten Island,0:40,4.59,false
+786,Mama Mia Pizzeria,Chinese,Medium,Bronx,2:11,4.23,true
+787,The Cozy Corner,Italian,Expensive,Staten Island,7:51,3.81,true
+788,The Rustic Tavern,Japanese,Expensive,Staten Island,3:44,3.41,false
+789,The Rustic Tavern,Italian,Expensive,Staten Island,18:25,3.5,true
+790,Sushi Paradise,Korean,Medium,Queens,13:42,1.04,true
+791,Mama Mia Pizzeria,Japanese,Medium,Bronx,17:58,4.49,true
+792,The Rustic Tavern,Korean,Cheap,Staten Island,22:11,4.37,true
+793,Sushi Paradise,Thai,Cheap,Staten Island,18:33,1.6,false
+794,Sushi Paradise,French,Cheap,Bronx,17:09,4.65,true
+795,The Golden Rooster,Italian,Cheap,Bronx,4:36,4.1,true
+796,La Petite Boulangerie,French,Cheap,Bronx,15:51,3.91,false
+797,Cafe Delight,Korean,Cheap,Bronx,12:49,1.37,false
+798,Cafe Delight,Thai,Expensive,Queens,3:47,2.53,false
+799,Sushi Paradise,Chinese,Medium,Staten Island,22:54,4.16,true
+800,La Petite Boulangerie,Mexican,Expensive,Brooklyn,22:45,2.62,false
+801,The Hungry Spoon,Indian,Cheap,Manhattan,7:05,1.53,false
+802,The Rustic Tavern,Greek,Medium,Manhattan,16:01,3.43,true
+803,Mama Mia Pizzeria,Mexican,Medium,Queens,0:32,3.23,true
+804,The Rustic Tavern,Japanese,Medium,Manhattan,18:13,2.67,true
+805,Mama Mia Pizzeria,French,Cheap,Queens,7:10,2.88,false
+806,The Golden Rooster,Chinese,Expensive,Staten Island,22:42,4.53,true
+807,Mama Mia Pizzeria,Indian,Cheap,Manhattan,16:41,4.28,true
+808,Cafe Delight,Mexican,Expensive,Queens,18:41,2.94,false
+809,La Petite Boulangerie,Greek,Medium,Manhattan,12:51,3.69,true
+810,Bella Italia,Indian,Medium,Staten Island,14:41,4.5,true
+811,The Spice Route,Korean,Cheap,Queens,1:11,1.04,true
+812,The Spice Route,French,Expensive,Brooklyn,22:35,3.59,true
+813,The Spice Route,Thai,Expensive,Queens,9:34,4.65,false
+814,Cafe Delight,Indian,Cheap,Bronx,1:11,2.9,false
+815,The Spice Route,French,Medium,Queens,19:20,3.85,true
+816,Sushi Paradise,Korean,Expensive,Queens,5:37,4.28,true
+817,Sushi Paradise,Korean,Medium,Bronx,14:43,3.4,false
+818,Bella Italia,Italian,Expensive,Staten Island,7:14,4.09,false
+819,Sushi Paradise,Japanese,Expensive,Queens,19:47,2.5,true
+820,The Golden Rooster,Mexican,Medium,Staten Island,16:58,2.99,true
+821,Bella Italia,Japanese,Medium,Queens,19:31,2.85,false
+822,Sushi Paradise,French,Expensive,Queens,11:17,4.66,false
+823,Sushi Paradise,Korean,Medium,Manhattan,0:59,2.0,false
+824,Mama Mia Pizzeria,Greek,Expensive,Staten Island,5:58,2.38,true
+825,Sushi Paradise,Greek,Medium,Queens,5:05,2.4,false
+826,Bella Italia,Thai,Medium,Manhattan,8:24,4.31,true
+827,The Spice Route,Greek,Expensive,Staten Island,1:03,4.09,false
+828,The Cozy Corner,Spanish,Expensive,Manhattan,1:49,3.88,true
+829,La Petite Boulangerie,Spanish,Expensive,Bronx,9:07,4.77,true
+830,Sushi Paradise,Mexican,Medium,Staten Island,11:39,1.43,false
+831,La Petite Boulangerie,Mexican,Medium,Queens,16:36,4.36,false
+832,The Spice Route,Indian,Cheap,Manhattan,2:48,4.32,false
+833,The Golden Rooster,French,Expensive,Brooklyn,22:45,1.2,true
+834,The Rustic Tavern,French,Expensive,Brooklyn,21:02,1.67,false
+835,The Golden Rooster,Greek,Cheap,Bronx,16:18,4.88,false
+836,Sushi Paradise,Italian,Medium,Bronx,16:09,1.66,false
+837,The Spice Route,Spanish,Medium,Manhattan,21:30,4.56,false
+838,The Spice Route,Mexican,Expensive,Brooklyn,1:50,3.79,true
+839,The Rustic Tavern,Mexican,Cheap,Queens,7:36,3.37,true
+840,La Petite Boulangerie,Japanese,Medium,Brooklyn,3:31,2.03,true
+841,The Hungry Spoon,Thai,Medium,Brooklyn,15:13,3.17,false
+842,The Hungry Spoon,Spanish,Expensive,Brooklyn,21:00,1.9,true
+843,Bella Italia,Thai,Expensive,Queens,18:03,4.81,false
+844,La Petite Boulangerie,Thai,Expensive,Bronx,15:35,4.24,true
+845,Sushi Paradise,Mexican,Medium,Brooklyn,15:07,4.69,true
+846,Bella Italia,French,Expensive,Brooklyn,3:23,2.91,false
+847,The Hungry Spoon,Greek,Medium,Brooklyn,21:43,1.85,false
+848,The Cozy Corner,Italian,Medium,Bronx,3:56,4.01,false
+849,The Golden Rooster,Korean,Medium,Staten Island,14:51,3.36,false
+850,Bella Italia,Korean,Cheap,Brooklyn,15:07,1.35,true
+851,The Hungry Spoon,Indian,Expensive,Manhattan,8:48,1.72,false
+852,The Rustic Tavern,Japanese,Cheap,Manhattan,16:54,2.66,true
+853,The Hungry Spoon,Japanese,Medium,Brooklyn,4:52,3.73,true
+854,Mama Mia Pizzeria,Indian,Medium,Manhattan,9:46,4.9,true
+855,Sushi Paradise,Japanese,Medium,Brooklyn,7:03,1.91,false
+856,The Golden Rooster,French,Medium,Bronx,15:49,4.21,false
+857,The Rustic Tavern,Indian,Cheap,Manhattan,7:55,4.13,false
+858,Cafe Delight,Korean,Expensive,Bronx,18:04,4.64,true
+859,Mama Mia Pizzeria,Greek,Expensive,Manhattan,19:16,3.68,true
+860,Mama Mia Pizzeria,Spanish,Expensive,Manhattan,19:43,1.48,true
+861,The Rustic Tavern,Spanish,Cheap,Bronx,10:12,1.36,false
+862,The Cozy Corner,Mexican,Medium,Manhattan,22:41,4.66,true
+863,Sushi Paradise,Korean,Expensive,Manhattan,12:53,4.46,true
+864,Cafe Delight,Mexican,Expensive,Brooklyn,5:54,3.46,false
+865,The Cozy Corner,Mexican,Cheap,Bronx,8:27,4.88,true
+866,The Hungry Spoon,French,Medium,Brooklyn,8:34,2.35,false
+867,The Spice Route,Italian,Expensive,Queens,22:00,2.77,false
+868,Sushi Paradise,Thai,Medium,Manhattan,21:30,3.15,true
+869,The Rustic Tavern,Thai,Expensive,Manhattan,21:59,4.88,true
+870,Sushi Paradise,Mexican,Medium,Brooklyn,1:49,1.65,false
+871,The Rustic Tavern,Spanish,Expensive,Bronx,2:11,3.83,true
+872,Mama Mia Pizzeria,Indian,Expensive,Brooklyn,16:26,4.72,false
+873,The Rustic Tavern,Mexican,Medium,Manhattan,14:09,3.01,false
+874,Sushi Paradise,Spanish,Medium,Brooklyn,14:19,4.95,false
+875,The Cozy Corner,Chinese,Medium,Queens,6:54,1.93,false
+876,Sushi Paradise,Japanese,Medium,Queens,0:50,4.2,false
+877,Bella Italia,Greek,Expensive,Queens,14:45,4.45,false
+878,Sushi Paradise,Indian,Medium,Staten Island,9:00,4.0,false
+879,The Cozy Corner,Spanish,Medium,Staten Island,19:18,2.84,false
+880,The Spice Route,Greek,Cheap,Bronx,4:09,4.64,true
+881,La Petite Boulangerie,Thai,Cheap,Bronx,15:57,2.93,false
+882,Bella Italia,Chinese,Cheap,Queens,17:56,2.69,false
+883,Bella Italia,Korean,Expensive,Bronx,5:34,3.59,true
+884,Mama Mia Pizzeria,Spanish,Expensive,Manhattan,19:37,3.11,true
+885,The Spice Route,Thai,Expensive,Queens,3:38,3.77,false
+886,The Golden Rooster,Mexican,Expensive,Bronx,17:29,2.77,true
+887,Bella Italia,Greek,Cheap,Brooklyn,12:06,4.87,true
+888,The Rustic Tavern,Japanese,Medium,Bronx,20:51,1.46,false
+889,The Hungry Spoon,Greek,Medium,Manhattan,20:02,1.13,true
+890,Mama Mia Pizzeria,Chinese,Medium,Manhattan,8:24,1.78,true
+891,Sushi Paradise,Korean,Medium,Queens,12:43,1.9,true
+892,Cafe Delight,French,Medium,Manhattan,12:34,1.5,true
+893,Cafe Delight,French,Medium,Staten Island,6:06,3.8,true
+894,Sushi Paradise,Chinese,Cheap,Staten Island,19:08,3.99,false
+895,Sushi Paradise,Chinese,Medium,Manhattan,11:20,3.34,true
+896,The Cozy Corner,Chinese,Cheap,Bronx,7:59,4.81,false
+897,La Petite Boulangerie,Japanese,Expensive,Queens,2:01,3.03,true
+898,The Golden Rooster,Spanish,Medium,Bronx,16:36,3.84,true
+899,The Cozy Corner,Korean,Expensive,Manhattan,10:42,4.27,false
+900,The Golden Rooster,Spanish,Expensive,Bronx,4:51,1.27,false
+901,The Golden Rooster,Spanish,Expensive,Bronx,11:31,3.06,true
+902,Cafe Delight,Chinese,Medium,Bronx,15:53,4.26,false
+903,The Rustic Tavern,Japanese,Medium,Brooklyn,10:56,1.58,true
+904,The Rustic Tavern,Thai,Cheap,Queens,19:18,4.87,false
+905,Bella Italia,Spanish,Expensive,Queens,15:21,2.2,true
+906,The Spice Route,Japanese,Expensive,Bronx,18:24,2.18,true
+907,Mama Mia Pizzeria,Korean,Cheap,Queens,17:47,4.21,false
+908,The Rustic Tavern,Chinese,Cheap,Bronx,5:12,3.98,false
+909,Mama Mia Pizzeria,Japanese,Cheap,Manhattan,0:11,1.95,true
+910,La Petite Boulangerie,Spanish,Expensive,Queens,7:01,3.02,false
+911,Mama Mia Pizzeria,Greek,Expensive,Brooklyn,9:25,1.19,true
+912,The Cozy Corner,Spanish,Cheap,Staten Island,1:38,4.35,true
+913,The Golden Rooster,Chinese,Expensive,Queens,23:21,4.32,false
+914,Sushi Paradise,Chinese,Medium,Bronx,1:25,3.23,true
+915,The Spice Route,Chinese,Expensive,Staten Island,1:47,3.95,false
+916,The Spice Route,French,Expensive,Brooklyn,1:30,2.44,true
+917,Cafe Delight,Thai,Medium,Brooklyn,9:22,2.28,false
+918,The Spice Route,Indian,Expensive,Bronx,11:11,4.99,false
+919,Sushi Paradise,French,Expensive,Queens,18:45,2.77,true
+920,The Hungry Spoon,Japanese,Cheap,Queens,14:47,4.22,false
+921,Mama Mia Pizzeria,Indian,Expensive,Staten Island,10:14,4.72,true
+922,The Spice Route,Mexican,Medium,Brooklyn,2:38,4.08,true
+923,The Rustic Tavern,Indian,Cheap,Staten Island,5:12,2.16,true
+924,The Hungry Spoon,Indian,Expensive,Manhattan,13:07,1.78,true
+925,La Petite Boulangerie,Mexican,Cheap,Bronx,14:56,3.7,false
+926,Mama Mia Pizzeria,French,Expensive,Bronx,19:08,1.55,false
+927,The Golden Rooster,Japanese,Cheap,Brooklyn,5:14,1.68,false
+928,La Petite Boulangerie,Korean,Expensive,Brooklyn,14:15,1.62,false
+929,The Hungry Spoon,Japanese,Cheap,Brooklyn,22:25,3.77,false
+930,The Hungry Spoon,Japanese,Expensive,Queens,14:03,3.91,false
+931,Sushi Paradise,Greek,Medium,Staten Island,5:07,4.04,true
+932,Sushi Paradise,Greek,Cheap,Bronx,23:23,2.34,true
+933,La Petite Boulangerie,Mexican,Expensive,Queens,5:56,1.54,false
+934,The Rustic Tavern,French,Expensive,Bronx,20:46,2.48,true
+935,Bella Italia,Indian,Cheap,Bronx,9:06,4.72,true
+936,The Hungry Spoon,Mexican,Medium,Brooklyn,19:41,1.86,true
+937,The Golden Rooster,Indian,Medium,Queens,9:55,3.31,true
+938,The Hungry Spoon,Thai,Cheap,Queens,6:10,4.89,false
+939,Mama Mia Pizzeria,Spanish,Medium,Staten Island,5:06,2.86,false
+940,The Rustic Tavern,Italian,Medium,Bronx,1:24,1.81,true
+941,The Golden Rooster,Thai,Cheap,Brooklyn,16:57,1.41,false
+942,Cafe Delight,Mexican,Cheap,Queens,12:58,2.54,true
+943,The Cozy Corner,Japanese,Cheap,Manhattan,7:54,1.18,true
+944,Cafe Delight,Mexican,Cheap,Bronx,8:35,4.99,true
+945,The Golden Rooster,Spanish,Expensive,Brooklyn,14:49,2.63,false
+946,La Petite Boulangerie,Mexican,Expensive,Brooklyn,2:55,4.27,false
+947,The Rustic Tavern,Japanese,Cheap,Brooklyn,18:45,2.89,true
+948,Sushi Paradise,Spanish,Medium,Bronx,5:41,4.73,true
+949,La Petite Boulangerie,Indian,Cheap,Staten Island,12:21,1.8,true
+950,La Petite Boulangerie,Mexican,Cheap,Staten Island,11:38,3.59,false
+951,Bella Italia,Mexican,Medium,Brooklyn,13:45,4.33,true
+952,Bella Italia,French,Cheap,Bronx,9:05,2.1,true
+953,Mama Mia Pizzeria,Korean,Cheap,Manhattan,3:38,1.22,false
+954,The Cozy Corner,Thai,Medium,Brooklyn,12:32,2.4,false
+955,La Petite Boulangerie,Greek,Expensive,Manhattan,22:32,4.9,false
+956,La Petite Boulangerie,Italian,Expensive,Queens,16:20,2.21,false
+957,Sushi Paradise,Indian,Expensive,Brooklyn,20:26,4.12,false
+958,Bella Italia,Greek,Expensive,Brooklyn,14:51,1.35,false
+959,Mama Mia Pizzeria,French,Cheap,Manhattan,20:58,1.51,false
+960,Mama Mia Pizzeria,Thai,Medium,Bronx,23:22,2.48,false
+961,The Rustic Tavern,Korean,Cheap,Staten Island,16:45,2.28,true
+962,The Spice Route,Thai,Expensive,Queens,7:00,4.58,false
+963,Mama Mia Pizzeria,Thai,Medium,Manhattan,6:53,4.51,false
+964,Sushi Paradise,Spanish,Medium,Queens,0:22,1.97,false
+965,The Golden Rooster,French,Expensive,Queens,15:20,3.87,true
+966,Mama Mia Pizzeria,Mexican,Cheap,Manhattan,6:38,2.91,true
+967,The Golden Rooster,Spanish,Expensive,Brooklyn,17:36,3.39,true
+968,Cafe Delight,Indian,Medium,Bronx,3:55,4.22,true
+969,Mama Mia Pizzeria,Greek,Expensive,Staten Island,23:49,2.86,false
+970,The Hungry Spoon,Thai,Medium,Staten Island,11:28,2.0,false
+971,Cafe Delight,Thai,Cheap,Bronx,5:07,2.89,true
+972,Mama Mia Pizzeria,Chinese,Cheap,Brooklyn,21:37,4.76,false
+973,Cafe Delight,Indian,Expensive,Manhattan,18:48,3.92,true
+974,La Petite Boulangerie,Thai,Medium,Brooklyn,3:21,2.88,false
+975,The Hungry Spoon,French,Medium,Bronx,9:59,2.65,false
+976,Cafe Delight,Spanish,Cheap,Manhattan,18:11,1.59,false
+977,The Golden Rooster,Mexican,Medium,Brooklyn,16:03,1.29,true
+978,Cafe Delight,Thai,Cheap,Brooklyn,4:24,2.74,false
+979,The Cozy Corner,Indian,Medium,Brooklyn,19:18,2.16,true
+980,The Rustic Tavern,French,Expensive,Manhattan,3:19,4.12,false
+981,Mama Mia Pizzeria,French,Cheap,Queens,0:00,4.82,true
+982,The Golden Rooster,Greek,Cheap,Manhattan,23:23,3.19,true
+983,Bella Italia,Italian,Medium,Queens,6:43,2.51,true
+984,The Rustic Tavern,Korean,Expensive,Queens,19:10,3.81,false
+985,Cafe Delight,Chinese,Expensive,Queens,22:02,4.1,true
+986,Bella Italia,Indian,Medium,Bronx,17:46,3.65,false
+987,The Cozy Corner,Korean,Cheap,Staten Island,21:32,4.29,true
+988,Sushi Paradise,Chinese,Medium,Bronx,6:13,3.14,false
+989,The Cozy Corner,French,Expensive,Queens,16:16,4.61,false
+990,Cafe Delight,Italian,Medium,Manhattan,7:29,3.99,false
+991,The Hungry Spoon,Mexican,Expensive,Staten Island,14:00,4.55,false
+992,Cafe Delight,Japanese,Cheap,Queens,12:01,1.36,true
+993,Bella Italia,Japanese,Cheap,Bronx,7:19,4.14,true
+994,Sushi Paradise,Mexican,Medium,Manhattan,20:05,3.05,false
+995,The Hungry Spoon,Japanese,Cheap,Brooklyn,2:26,2.36,false
+996,Mama Mia Pizzeria,French,Medium,Bronx,6:58,2.91,false
+997,The Spice Route,Greek,Medium,Queens,21:32,4.87,false
+998,The Golden Rooster,Thai,Medium,Manhattan,19:14,4.98,true
+999,The Rustic Tavern,Indian,Medium,Bronx,3:02,2.29,true
+1000,La Petite Boulangerie,Indian,Medium,Brooklyn,20:15,4.72,false
